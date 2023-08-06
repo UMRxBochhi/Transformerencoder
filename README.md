@@ -1,10 +1,11 @@
 # Transformerencoder
 
-I use PyTorch to complete my encoder, the data preprocess might need to do by yourself.
+I use PyTorch to complete my encoder.
+The purpose of this model is to address the current research project I am working on.
 
 ## normal
 - In this version, is a Transformer encoder with an up-sampling method.
-  And also use Optuna. 
+And use Optuna for trying different parameter adjustments.
 
 ## bagging
 - I use random sampling to do this bagging ensemble.
